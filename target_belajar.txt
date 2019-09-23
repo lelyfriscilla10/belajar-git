@@ -1,2 +1,4 @@
 senin : Bootstrap, GIT
 selasa : SIM
+rabu : dosen kosong
+kamis : GNS3
