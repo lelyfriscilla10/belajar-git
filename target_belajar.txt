@@ -3,3 +3,5 @@ selasa : SIM
 
 kamis : GNS3
 Jumat : Triger DB
+Sabtu : Laily Tugas Kelompok UI
+Minggu : Laily Tugas Kelompok Basis Data Lanjut
