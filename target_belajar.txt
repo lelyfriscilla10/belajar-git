@@ -1,7 +1,10 @@
-senin :GIT
-selasa : SIM
+senin : GIT(Branch,Merge)
+senin : Desain Antarmuka(Wireframe)
+selasa : SIM(Sistem Informasi Manajemen)
 
 kamis : GNS3
-Jumat : Triger DB
-Sabtu : Laily Tugas Kelompok UI
-Minggu : Laily Tugas Kelompok Basis Data Lanjut
+jumat : Triger DB
+sabtu : Laily Tugas Kelompok UI
+minggu : Laily Tugas Kelompok Basis Data Lanjut
+
+ini file di branch
