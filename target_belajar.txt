@@ -6,3 +6,5 @@ kamis : GNS3
 jumat : Triger DB
 sabtu : Laily Tugas Kelompok UI
 minggu : Laily Tugas Kelompok Basis Data Lanjut
+
+ini file di branch
